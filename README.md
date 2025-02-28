@@ -1,36 +1,22 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Creating Advanced AI Applications with Python, APIs, and GitHub Models
+This is the repository for the LinkedIn Learning course `Creating Advanced AI Applications with Python, APIs, and GitHub Models`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+## Course Description
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+GitHub Models lets you build AI features and products that integrate with third-party APIs. In this course, instructor Jonathan Fernandes shows you how to create an AI application using advanced large language model (LLM) tooling and GitHub Models. Experiment with LLM tooling such as function calling to determine the best LLM for the task, and then start designing and building your own prototype. Test out your new skills along the way in the hands-on coding challenges at the end of each section. By the end of this course, you’ll be equipped with the skills you need to create, test, validate, and deploy an AI-powered app that works effectively with a third-party API.
 
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
+## Instructor
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
+Jonathan Fernandes
 
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
+Expert in Generative AI and Large Language Models
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/creating-advanced-ai-applications-with-python-apis-and-github-models).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/creating-advanced-ai-applications-with-python-apis-and-github-models
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQGdob709sGwlg/learning-public-crop_675_1200/B4DZVN1UQuHIAY-/0/1740767578071?e=2147483647&v=beta&t=SY2HN8EJ7WazoO6vUN3C6c733_60BTubtTiidR1Z0rg
 

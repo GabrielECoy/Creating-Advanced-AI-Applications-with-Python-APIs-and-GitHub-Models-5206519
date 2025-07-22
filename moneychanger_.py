@@ -7,7 +7,7 @@ import json
 import streamlit as st
 import os
 from openai import OpenAI
-from langsmith import wrappers, traceable
+from langsmith import traceable
 
 token = os.environ["GITHUB_TOKEN"]
 endpoint = "https://models.inference.ai.azure.com"

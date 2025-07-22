@@ -87,7 +87,7 @@ def call_llm(textbox_input) -> Dict:
 
     
     except Exception as e:
-        print(f"Exception {e} for {text}")
+        print(f"Exception {e} for {textbox_input}")
     else:
         return response#.choices[0].message.content
 
